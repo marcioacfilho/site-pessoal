@@ -1,0 +1,61 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.site-inteiro{
+background-color: rgba(0, 0, 0, 0);
+height: 100vh;
+    
+}
+.desenvolvedor{
+text-align: center;
+padding-top: 265px;
+font-size: 24px;
+color: white;
+
+
+}
+
+.Marcio{
+text-align: center;
+padding-top: 18px;
+font-size: 80px;
+color: white
+
+}
+
+.WEB{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 24px;
+    color: white;
+
+}
+
+.Projetos-no-github{
+    text-align: center;
+    padding-top: 55px;
+    font-size: 26px;
+    color: white;
+
+
+}
+
+.click-imagem{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.fundo{
+    background-image: url('imagem/foto3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+   
+}
