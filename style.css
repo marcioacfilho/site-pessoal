@@ -55,7 +55,12 @@ color: white
     background-image: url('imagem/foto3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    
-
    
+}
+
+.foto{
+    width: 429px;
+    height: 280px;
+    left: 47px;
+    top: 656px;
 }
