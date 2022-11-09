@@ -53,14 +53,25 @@ color: white
 
 .fundo{
     background-image: url('imagem/foto3.jpg');
+    text-align: center;
+    color: white;
     background-size: cover;
     background-repeat: no-repeat;
    
 }
 
 .foto{
-    width: 429px;
-    height: 280px;
-    left: 47px;
-    top: 656px;
+    
+    min-height: 100vh;
+    padding-top: 200px;
+}
+
+.fundos{
+   padding-top: 100px;
+    
+}
+
+.imagem-link{
+    width: 200px;
+    
 }
